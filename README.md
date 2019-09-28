@@ -30,7 +30,7 @@ $ git log
 试着操作并记住其他那个PDF上git的基础操作
 
 后来发现自己的git并没有和远程建立联系
-通过搜索引擎
+通过搜索引擎进行了学习
 $ ssh-keygen -t rsa -C "1192588363@qq.com"
 回车后建立了联系
 ssh  -T git@github.com
